@@ -1,9 +1,9 @@
 import React from "react";
 import styled from "styled-components";
-import {AiOutlineInstagram} from "react-icons/ai";
-import {FaFacebookF, FaLinkedinIn} from "react-icons/fa";
-import {Slide} from "react-awesome-reveal";
-import resume from "../../resume/Resume.pdf";
+import { AiOutlineInstagram } from "react-icons/ai";
+import { FaFacebookF, FaLinkedinIn } from "react-icons/fa";
+import { Slide } from "react-awesome-reveal";
+import resume from "../../resume/RBN.pdf";
 
 const ProfComponent = () => {
   return (
@@ -41,13 +41,18 @@ const ProfComponent = () => {
               <span>
                 <a
                   href="https://www.linkedin.com/in/roshanbnair/"
-                  target="_blank" rel="noreferrer"
+                  target="_blank"
+                  rel="noreferrer"
                 >
                   <FaLinkedinIn />
                 </a>
               </span>
               <span>
-                <a href="https://www.instagram.com/_r.b.n__/" target="_blank" rel="noreferrer">
+                <a
+                  href="https://www.instagram.com/_r.b.n__/"
+                  target="_blank"
+                  rel="noreferrer"
+                >
                   <AiOutlineInstagram />
                 </a>
               </span>
