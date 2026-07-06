@@ -11,9 +11,9 @@ const About = () => {
           {/* https://i.ibb.co/5vpr6KB/Whats-App-Image-2023-08-05-at-16-23-56.jpg */}
           {/* bg removed better one  : https://o.remove.bg/downloads/2fe8dedd-d415-43ca-8b48-c08a18e7511f/Whats-App-Image-2023-08-05-at-16-23-55-removebg-preview.png */}
           {/* bg removed :https://o.remove.bg/downloads/a85701c5-af57-4180-8df8-16f4cd5338f9/Whats-App-Image-2023-08-05-at-16-23-56-removebg-preview.png */}
-          <img
+          {/* <img
             src=" https://o.remove.bg/downloads/2fe8dedd-d415-43ca-8b48-c08a18e7511f/Whats-App-Image-2023-08-05-at-16-23-55-removebg-preview.png"
-          />
+           alt="Roshan N Bair — portrait" /> */}
         </Profile>
       </Slide>
       <Slide direction="right">
